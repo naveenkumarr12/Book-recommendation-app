@@ -3,4 +3,4 @@
 A book recommendation app made with react.📚  
 The data is not coming from a server, so the collection is small for now.
 
-see live project: https://fzkt6m.csb.app/
+see live project: https://skugt2.csb.app/
